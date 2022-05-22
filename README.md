@@ -28,7 +28,7 @@ This project uses exploratory analysis, to analyze the datasets so as to summari
  -Domestic gross appears to be inconsistent from 2010-2018. Foreign gross however, seems to be more consistent 
 and higher as compared to Domestic gross.
 
-![domestic_gross](./images/graph1.png.)
+![domestic_gross](./images/graph1.png)
 
 ![foreign_gross](./images/graph2.png)
 
