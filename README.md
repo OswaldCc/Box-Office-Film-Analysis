@@ -1,4 +1,6 @@
 
+
+![logo](./images/logo.jpg)
 # Austin Animal Center Needs Analysis
 
 **Author**: [Samuel Kabati](sam.kabati@student.moringaschool.com)
@@ -26,6 +28,10 @@ This project uses exploratory analysis, to analyze the datasets so as to summari
  -Domestic gross appears to be inconsistent from 2010-2018. Foreign gross however, seems to be more consistent 
 and higher as compared to Domestic gross.
 
+![domestic_gross](./images/graph1.png.png)
+
+![foreign_gross](./images/graph2.png)
+
 
 
 ## Conclusions
@@ -49,7 +55,7 @@ See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.
 
 For additional info, contact Samuel Kabati at [samuel.kabati@student.moringaschool.com](https://gmail.com/)
 
-
+![logo](./images/logo.jpg)
 
 ## Repository Structure
 
