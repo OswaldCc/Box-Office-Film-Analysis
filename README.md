@@ -8,7 +8,7 @@
 This project analyzes film analytics in the box office. Exploratory analysis of the data shows the genres associated with an above average rating, as well as also investigating the relatonship between various variables in the dataset. Microsoft can use the analysis to understand what type of movies to start showing as well as the market they could target.
 
 ## Business Problem
-To start the movie studio, relevant and accurate information on various titles is required. This will in the log run help save on start-up costs for the movie studio by doing what works and avoiding the hit or miss. This is crucial as it could determine whether the movie studio becomes popular and successful or whether it ends up failing. I explore the data to find genres that may be the best to start with and also investigate relationships that might have an impact on ratings.
+To start a movie studio, relevant and accurate information on various titles is required. This will in the log run help save on start-up costs for the movie studio by doing what works and avoiding the hit or miss. This is crucial as it could determine whether the movie studio becomes popular and successful or whether it ends up failing. I explore the data to find genres that may be the best to start with and also investigate relationships that might have an impact on ratings.
 
 ## Data
 The Data contains datasets obtained from:
