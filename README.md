@@ -1,9 +1,8 @@
 
 
-![logo](./images/logo.jpg)
-# Austin Animal Center Needs Analysis
+# Box-Office-Film-Analysis
 
-**Author**: [Samuel Kabati](sam.kabati@student.moringaschool.com)
+**Author**: [Samuel Kabati](sam.kabati@gmail.com)
 
 ## Overview
 This project analyzes film analytics in the box office. Exploratory analysis of the data shows the genres associated with an above average rating, as well as also investigating the relatonship between various variables in the dataset. Microsoft can use the analysis to understand what type of movies to start showing as well as the market they could target.
