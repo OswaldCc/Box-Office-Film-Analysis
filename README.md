@@ -52,9 +52,9 @@ Further analyses could yield additional insights to:
 
 See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
 
-For additional info, contact Samuel Kabati at [samuel.kabati@student.moringaschool.com](https://gmail.com/)
+For additional info, contact Samuel Kabati at [samuel.kabati@gmail.com](https://gmail.com/)
 
-![logo](./images/logo.jpg)
+
 
 ## Repository Structure
 
